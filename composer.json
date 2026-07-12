@@ -1,6 +1,6 @@
 {
   "name": "nohara/laravel-latex-editor",
-  "description": "Pustaka input matematika LaTeX mandiri sebagai pengganti Wiris & CKEditor berbayar di Laravel.",
+  "description": "Pustaka input rumus matematika LaTeX mandiri yang bebas lisensi dan mudah diintegrasikan di Laravel.",
   "type": "library",
   "license": "MIT",
   "authors": [

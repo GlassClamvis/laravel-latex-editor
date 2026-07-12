@@ -4,13 +4,13 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/nohara/laravel-latex-editor.svg?style=flat-square)](https://packagist.org/packages/nohara/laravel-latex-editor)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Pustaka input matematika LaTeX mandiri yang interaktif sebagai pengganti **Wiris** & **CKEditor berbayar (MathType)** untuk aplikasi Laravel Anda. 100% bebas biaya lisensi, open-source, dan sangat mudah diintegrasikan.
+Pustaka input matematika LaTeX mandiri yang interaktif dan bebas lisensi untuk aplikasi Laravel Anda. 100% bebas biaya lisensi, open-source, dan sangat mudah diintegrasikan sebagai alternatif solusi komersial berbayar.
 
 ---
 
 ## 🌟 Fitur Utama
 
-- **Bebas Biaya Lisensi (100% Free)**: Menggantikan solusi MathType / Wiris premium tanpa memerlukan lisensi berbayar bulanan atau tahunan.
+- **Bebas Biaya Lisensi (100% Free)**: Menggantikan solusi editor matematika premium tanpa memerlukan biaya lisensi tahunan.
 - **Asynchronous CDN Loader**: Memuat sumber daya CKEditor, TinyMCE, KaTeX, dan MathJax secara dinamis hanya saat dibutuhkan untuk menjaga kecepatan pemuatan halaman awal tetap optimal.
 - **Light Theme Toolbar**: Desain toolbar modern berwarna putih bersih dengan tingkat kontras tinggi, sangat serasi dengan dashboard form modern (seperti Bootstrap, Tailwind, atau admin template apa pun).
 - **Math Assistant Panel**: Menyediakan panel pop-up interaktif berisi simbol-simbol matematika populer (pecahan, akar, integral, matriks, limit, dll.) yang dapat disisipkan ke editor hanya dengan sekali klik.
